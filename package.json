@@ -1,0 +1,23 @@
+{
+  "name": "angular-restaurant",
+  "version": "1.0.0",
+  "description": "This should include an app called FoodApp and a controller called FoodController. Create an array of foods (strings) in that controller, and show each of those items in a list on the DOM. After that, make an input field, and a button that allows a user to add a new food to the list.",
+  "main": "angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haileemiu/angular-restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haileemiu/angular-restaurant/issues"
+  },
+  "homepage": "https://github.com/haileemiu/angular-restaurant#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}

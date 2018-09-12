@@ -1,4 +1,4 @@
-# angular-restaurant
+
 
 ## Angular Restaurant
 This should include an app called FoodApp and a controller called FoodController.
